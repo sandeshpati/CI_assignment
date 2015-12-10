@@ -12,6 +12,7 @@ public class FibonacciUI {
 	 */
 	public static void main(String[] args)
 	{
+		error inserted
 		long input = 0, result;
 		boolean keepRunning = true;
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
